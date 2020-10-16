@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\Projex\Projex\bin\Debug\Projex.exe.config
+C:\Users\Home\source\repos\Projex\Projex\bin\Debug\Projex.exe
+C:\Users\Home\source\repos\Projex\Projex\bin\Debug\Projex.pdb
+C:\Users\Home\source\repos\Projex\Projex\obj\Debug\Projex.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Projex\Projex\obj\Debug\MainWindow.g.cs
+C:\Users\Home\source\repos\Projex\Projex\obj\Debug\App.g.cs
+C:\Users\Home\source\repos\Projex\Projex\obj\Debug\Projex_MarkupCompile.cache
+C:\Users\Home\source\repos\Projex\Projex\obj\Debug\Projex_MarkupCompile.lref
+C:\Users\Home\source\repos\Projex\Projex\obj\Debug\MainWindow.baml
+C:\Users\Home\source\repos\Projex\Projex\obj\Debug\Projex.g.resources
+C:\Users\Home\source\repos\Projex\Projex\obj\Debug\Projex.Properties.Resources.resources
+C:\Users\Home\source\repos\Projex\Projex\obj\Debug\Projex.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Projex\Projex\obj\Debug\Projex.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Projex\Projex\obj\Debug\Projex.exe
+C:\Users\Home\source\repos\Projex\Projex\obj\Debug\Projex.pdb
